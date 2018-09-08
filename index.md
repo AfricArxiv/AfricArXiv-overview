@@ -59,28 +59,28 @@
 
                     <div class="collapse navbar-collapse" id="navbarColor01">
                         <ul class="navbar-nav">
-                            <li class="nav-item active">
-                                <a class="nav-link" href="index.html">Home 
+                            <li class="nav-item">
+                                <a class="nav-link" href="index.md">Home 
                                         <span class="sr-only">(current)</span></a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="submission_guidelines.html">Submission Guidelines</a>
+                                <a class="nav-link" href="submission_guidelines.md">Submission Guidelines</a>
                             </li>
 
                             <li class="nav-item">
-                                <a class="nav-link" href="journal_policies.html">Journal Policies</a>
+                                <a class="nav-link" href="journal_policies.md">Journal Policies</a>
                             </li>
 
                             <li class="nav-item">
-                                <a class="nav-link" href="code_of_conduct.html">Code of Conduct</a>
+                                <a class="nav-link" href="code_of_conduct.md">Code of Conduct</a>
                             </li>
 
                             <li class="nav-item">
-                                <a class="nav-link" href="glossary.html">Glossary</a>
+                                <a class="nav-link" href="glossary.md">Glossary</a>
                             </li>
 
                             <li class="nav-item">
-                                <a class="nav-link" href="contact_us.html">Contact</a>
+                                <a class="nav-link" href="contact_us.md">Contact</a>
                             </li>
                         </ul>
                     </div>
