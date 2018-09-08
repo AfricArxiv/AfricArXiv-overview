@@ -59,7 +59,7 @@
 
                     <div class="collapse navbar-collapse" id="navbarColor01">
                         <ul class="navbar-nav">
-                            <li class="nav-item">
+                            <li class="nav-item active">
                                 <a class="nav-link" href="index.md">Home 
                                         <span class="sr-only">(current)</span></a>
                             </li>
