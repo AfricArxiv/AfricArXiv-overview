@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+## Main website: http://africarxiv.org
 
-You can use the [editor on GitHub](https://github.com/AfricArxiv/africarxiv.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+# AfricArxiv
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+AfricArxiv is a free, open source and community-led digital archive for African research. We provide a non-profit platform for African scietists to upload their working papers, pre-prints, accepted manuscripts (post-prints), and published papers. We also provide options to link data and code, and for article versioning. AfricArxiv is dedicated to speeding and opening up research and collaboration among African scientists and helping to build the future of scholarly communication.
 
-### Markdown
+Twitter: https://twitter.com/africarxiv
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# AfricArxiv Steering Committee
 
-```markdown
-Syntax highlighted code block
+This website represents our temporary blog and information portal. The platform is led by a Steering Committee comprised of members from the global Palaeontology community:
 
-# Header 1
-## Header 2
-### Header 3
+1. Justin Sègbédji Ahinon, University of Parakou, Bénin
+2. Jo Havemann, Access2Perspectives, Germany
+3. Samuel Lampa, Uppsala University, Sweden
+4. Obasegun Tekena Ayodele, Vilsquare Global Resources, Nigeria 
+5. Greg Simpson, Royal Holloway University of London, UK
+6. Luke Otieno Okelo, Technical University of Kenya, Nairobi, Kenya
+7. Ahmed Ogunlaja, Open Access Nigeria, Nigeria
 
-- Bulleted
-- List
+Please email us if you would like to be involved.
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AfricArxiv/africarxiv.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+# Important links and media
