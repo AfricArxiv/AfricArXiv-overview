@@ -10,7 +10,7 @@ Drafting the guidelines for the committee to operate along
 
 ## Reporting
 The Steering team (currently Osman and Jo) will provide a monthly summary of milestones achieved and outlook for the upcoming month
-The document for that is a living document for Baord members to comment on based on there time preference within a week.
+The document for that is a living document for Baord members to comment on within a week.
 …
 
 ## Meetings
