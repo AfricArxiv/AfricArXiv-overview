@@ -1,4 +1,4 @@
-# Guideline for the members of the AfricArXiv Adivosiroy Board
+# Guideline for the members of the AfricArXiv Advisory Board
 Drafting the guidelines for the committee to operate along
 
 ## Responsibilities
