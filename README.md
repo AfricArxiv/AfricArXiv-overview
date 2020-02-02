@@ -1,4 +1,4 @@
-## Main website: http://africarxiv.org
+*AfricArXiv content is [CC BY 4.0](https://github.com/AfricArxiv/info.africarxiv.org/blob/master/license.md) licensed.*
 
 # About AfricArxiv
 
