@@ -1,8 +1,11 @@
+This repo is about AfricArXiv's website maintenance
+
+
 *AfricArXiv content is [CC BY 4.0](https://github.com/AfricArxiv/info.africarxiv.org/blob/master/license.md) licensed.*
 
-# About AfricArxiv
+# About AfricArXiv
 
-AfricArxiv is a free, open source and community-led digital archive for African research. We provide a non-profit platform for African scietists to upload their working papers, pre-prints, accepted manuscripts (post-prints), and published papers. We also provide options to link data and code, and for article versioning. AfricArxiv is dedicated to speeding and opening up research and collaboration among African scientists and helping to build the future of scholarly communication.
+AfricArXiv is a free, open source and community-led digital archive for African research. We provide a non-profit platform for African scietists to upload their working papers, pre-prints, accepted manuscripts (post-prints), and published papers. We also provide options to link data and code, and for article versioning. AfricArXiv is dedicated to speeding and opening up research and collaboration among African scientists and helping to build the future of scholarly communication.
 
 Twitter: https://twitter.com/africarxiv
 
