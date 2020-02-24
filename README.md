@@ -70,6 +70,41 @@ We propose the same approach of establishing a decentralized, Africa-owned data 
 
 
 
+## Required features 
+- login (via email / affiliation / ORCID / Github / …)
+- document upload
+- document versioning with time stamp and archiving of all versions under one doi
+- licensing (CC-BY 4.0 and others to choose from incl. all commonly used academic licenses, i.e. MIT, GNU, CC-BY-…, …)
+- Indexing via Google Scholar, OpenAIR, PubMed, …
+
+- entry mask to add authors, affiliations, tags, keywords, title, abstract, lay summary
+- interoperability with other existing repositories
+- Discipline (categories) and keywords search
+
+
+## Languages
+- languages commonly spoken on the continet 
+- machine translations with options/overlay interface to manually improve the text online (see www.GTranslate.io) // GoogleTranspate API
+- Language switch // editable by the users and admin
+
+
+## integrations
+- ORCID // https://members.orcid.org/cc-publishers
+- CrossREF
+- Altmetrics
+- GoogleDrive
+- Dropbox
+- DSpace
+- OSF
+- Open Knowledge Maps (BASE search)
+
+
+## SOFTWARE OPTIONS
+- PKP Open Preprint Systems (OPS)
+- ? https://www.u-repo.io/
+- ? 
+
+
 ---
 
 
