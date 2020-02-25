@@ -89,6 +89,7 @@ We propose the same approach of establishing a decentralized, Africa-owned data 
 
 
 ## integrations
+- digitally preserved in the [CLOCKSS archive](https://clockss.org/) (?)
 - ORCID // https://members.orcid.org/cc-publishers
 - CrossREF
 - Altmetrics
@@ -107,6 +108,8 @@ We propose the same approach of establishing a decentralized, Africa-owned data 
 
 ---
 
+# Ready for blockchain?
+we are aware of techniological progress made on the blockchain in scholarly communication ans processing. Below are a few examples of blockchain features and service providers that we will investigate for collaboration and implementartion in the foreseeable future.
 
 ## ? Blockchain for Science
 Adding blockchain components e.g. for publishing steps to ensure an affordable, efficient, decentralized infrastructure
