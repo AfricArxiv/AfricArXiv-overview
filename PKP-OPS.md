@@ -41,7 +41,7 @@ The South African numbers are extremely high because that's where [AJOL](ajol.in
 
 
 # Contribute
-You can help us get this goin in several ways:
+You can help us get PKP OPS for AfricArXiv off the ground in several ways:
 - Help us cover expenses for working hours on https://opencollective.com/africarxiv/contribute/pkp-ops-installation-and-maintenance-14337
 - help us translate the submission platform interface into French / Arabic / and most importantly traditional African languages
 - assist us in writing user guidelines and finetiune the submission process
