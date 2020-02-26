@@ -7,8 +7,8 @@ For more information go to https://pkp.sfu.ca/ | [PKP Docs Hub](https://docs.pkp
 In September 2018, [PKP and SciELO Announced the Development of an Open Source Preprint Server System](https://pkp.sfu.ca/2018/09/22/pkp-and-scielo-announce-development-of-open-source-preprint-server-system/).
 The Open Preprint System *OPS V3.2 beta* will be launched on Feb 28, 2020. Read [The Road to Preprints (Part 1): Introducing Open Preprint Systems](https://pkp.sfu.ca/2020/02/24/the-road-to-preprints-part-1-introducing-open-preprint-systems/)
 
-OPS pretty much contains all we need and supports all we nee incl. 
-- commonly used scholarly types and formats for upload dissemination, i.e. text-based manuscripts, datasets, presentations etc.
+OPS pretty much contains and supports all we need for a modern and reliable Open Access preprint service, including: 
+- commonly used scholarly types and formats for upload and dissemination, i.e. text-based manuscripts, datasets, presentations etc.
 - mutliple languages submission / translations of title, abstract, keywords, etc.
 - integration options for ORCID, CrossRef, etc.
 - …
@@ -38,3 +38,12 @@ We call on the AfricArXiv community for volunteer translations into African lang
 Usage statistics are difficult to obtain - no requirement of any kind of registration. 
 [This map](https://pkp.sfu.ca/ojs/ojs-usage/ojs-map/) attempts to capture journal counts per country over time. Many more might not be captured but instead to be found anecdotally by looking around Africa. 
 The South African numbers are extremely high because that's where [AJOL](ajol.info/) is hosted. 
+
+
+# Contribute
+You can help us get this goin in several ways:
+- Help us cover expenses for working hours on https://opencollective.com/africarxiv/contribute/pkp-ops-installation-and-maintenance-14337
+- help us translate the submission platform interface into French / Arabic / and most importantly traditional African languages
+- assist us in writing user guidelines and finetiune the submission process
+
+Email us at [contribute@africarxiv.org](mailto:contribute@africarxiv.org) to get involved.
