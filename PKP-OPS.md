@@ -4,7 +4,6 @@
 
 For more information go to https://pkp.sfu.ca/ | [PKP Docs Hub](https://docs.pkp.sfu.ca/) | PKP Discussion Forum
 
-
 In September 2018, [PKP and SciELO Announced the Development of an Open Source Preprint Server System](https://pkp.sfu.ca/2018/09/22/pkp-and-scielo-announce-development-of-open-source-preprint-server-system/).
 The Open Preprint System *OPS V3.2 beta* will be launched on Feb 28, 2020. Read [The Road to Preprints (Part 1): Introducing Open Preprint Systems](https://pkp.sfu.ca/2020/02/24/the-road-to-preprints-part-1-introducing-open-preprint-systems/)
 
@@ -26,7 +25,7 @@ We collect any challenges and suggestions for changes with the software [here as
 PKP OPS supports several languages. Default is English with oppotunities to add translations of titles, keywords and other metadata in sevrral other languages.
 
 #### Interface
-The PKP OPS interface is released with and English, Portuguese and Spanish interface.
+The PKP OPS interface will be released with an English, Portuguese and Spanish interface.
 Translations to other langauges are aprtially underway and we will mobilize our community to add African translations.
 
 #### Community effort
