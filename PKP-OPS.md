@@ -1,13 +1,19 @@
 # PKP Open Preprint System
 
 *PKP is a multi-university initiative developing (free) open source software and conducting research to improve the quality and reach of scholarly publishing.*
+- [PKP Docs Hub](https://docs.pkp.sfu.ca/)
 
 In September 2018, [PKP and SciELO Announced the Development of an Open Source Preprint Server System](https://pkp.sfu.ca/2018/09/22/pkp-and-scielo-announce-development-of-open-source-preprint-server-system/).
 
 The Open Preprint System *OPS V3.2 beta* will be launched on Feb 28, 2020. Read [The Road to Preprints (Part 1): Introducing Open Preprint Systems](https://pkp.sfu.ca/2020/02/24/the-road-to-preprints-part-1-introducing-open-preprint-systems/)
 
+OPS pretty much contains all we need and supports all we nee incl. 
+- commonly used scholarly types and formats for upload dissemination, i.e. text-based manuscripts, datasets, presentations etc.
+- mutliple languages submission / translations of title, abstract, keywords, etc.
+- integration options for ORCID, CrossRef, etc.
+- …
 
-# Installation 
+## Installation 
 Installation should be easy and straightforward, all we need is a server for hosting and a contact person for maintenance and and ensurance of regular updates of the OPS package, whenever PKP releases an update.
 
 The [PKP Web Application Library](https://github.com/pkp/pkp-lib) (PKP-WAL on GitHub) contains all code and descriptions fro OMS, OJS and OPS a.o.
@@ -25,7 +31,7 @@ Translations to other langauges are aprtially underway and we will mobilize our 
 **community effort**
 The PKP translation toolset [Weblate](https://weblate.org/en/) is announced and described at https://pkp.sfu.ca/2020/01/22/introducing-weblate-a-new-path-for-ojs-omp-translations/
 Anyone is welcome to work on translations, including starting new ones that will be collected and included with the next releases of the software.
-We call on the AfricArXiv community for volunteer translations into African languages; e-mail us to contribute@africarxiv.org 
+We call on the AfricArXiv community for volunteer translations into African languages; e-mail us to contribute@africarxiv.org PKP Translation User Guide: [OJS/OMP 3.2 Translations with Weblate](https://docs.google.com/document/d/16WvPzofTMPlsTwivo_czEvKWrIQEpdcWyqpgXSbokBQ/edit) (GoogleDoc)
 
 
 ## OJS Usage in Africa: 
