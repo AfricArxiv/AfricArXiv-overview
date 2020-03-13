@@ -98,6 +98,7 @@ We propose the same approach of establishing a decentralized, Africa-owned data 
 - DSpace
 - OSF
 - Open Knowledge Maps (BASE search)
+- automated linking between preprint and VoR as suggested by https://frenxiv.org/fcq6v/
 
 
 ## SOFTWARE OPTIONS
