@@ -19,6 +19,19 @@ Installation should be easy and straightforward, all we need is a server for hos
 The [PKP Web Application Library](https://github.com/pkp/pkp-lib) (PKP-WAL on GitHub) contains all code and descriptions fro OMS, OJS and OPS a.o.
 We collect any challenges and suggestions for changes with the software [here as Issues](https://github.com/AfricArxiv/preprint-repository/issues) first try and solve within the AfricArXiv community before approaching PKP. 
 
+---
+OPS, empty and unpacked onto a server, is a little under 200MB. The database is relatively small (even with thousands of submissions it should be well under a gigabyte). You'd need to estimate the file storage area for yourself -- this will depend on what format of submissions authors are uploading (e.g. PDF vs. DOCX vs. LaTeX), how big any associated datasets or images are, etc. OPS will maintain a complete copy of these for each version of the submission, so if an author revises a submission after it's been published, creating a new version will double the space it requires.
+
+All in all, the file storage area is the element that will grow most considerably; the rest can be subsumed into a bit of slush factor.
+
+Moving the software from one server to another involves moving 3 things:
+
+The installation directory (the source code, configuration file, etc)
+The database (referred to in the configuration file)
+The file storage area (referred to in the configuration file)
+All of these can be moved as a normal server administration type of task, as long as the configuration file continues to tie all 3 together.
+
+---
 
 ## Translations
 #### Submissions
